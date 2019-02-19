@@ -1,5 +1,6 @@
 # Sinatra Hello World Basics
 
+
 ## Objectives
 
 1. Create a basic Sinatra application.
